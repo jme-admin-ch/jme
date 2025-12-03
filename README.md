@@ -1,14 +1,14 @@
 # JME - jEAP Microservice Examples
 
 Welcome to the **jEAP Microservice Examples (JME)** umbrella repository. JME provides a suite of
-example microservices designed to demonstrate the development of jEAP-based microservices. Each JME repository
-focuses on a specific jEAP functionality.
+example microservices designed to demonstrate the development of [jEAP](https://github.com/jeap-admin-ch/jeap)-based
+microservices. Each JME repository focuses on a specific jEAP functionality.
 
 ## Purpose
 
 The jEAP microservice examples offer developers a collection of ready-to-run microservices that demonstrate best
-practices for leveraging specific jEAP features. The examples address common challenges and cross-cutting concerns in
-enterprise application development.
+practices for leveraging specific [jEAP](https://github.com/jeap-admin-ch/jeap) features. The examples address common
+challenges and cross-cutting concerns in enterprise application development.
 
 ## Getting Started
 
