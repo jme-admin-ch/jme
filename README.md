@@ -24,7 +24,13 @@ This repository is Open Source Software licensed under the [Apache License 2.0](
 Below you will find an overview of all repositories included in the JME umbrella, each with a short description of its
 focus and functionality:
 
-* _(Repository list coming soon. Stay tuned for updates!)_
+* jme-cdct-consumer-example: demonstrates consumer-driven contract testing with Pact in a consumer
+* jme-cdct-consumer-2-example: demonstrates consumer-driven contract testing with Pact in a consumer using the Pact Java legacy DSL
+* jme-cdct-provider-example: demonstrates consumer-driven contract testing with Pact in a provider
+* jme-cdct-segregated-consumer-example: demonstrates consumer-driven contract testing with Pacts for the segregated APIs of a provider
+* jme-cdct-segregated-provider-example: demonstrating consumer-driven contract testing with Pact in a provider with segregated APIs
+* jme-message-type-registry: contains JME message types produced or consumed by JME services
+* jme-process-context-example: demonstrates how to use the jEAP Process Context Service
 
 ## Building a jEAP Microservice Example
 
