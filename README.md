@@ -24,11 +24,36 @@ This repository is Open Source Software licensed under the [Apache License 2.0](
 Below you will find an overview of all repositories included in the JME umbrella, each with a short description of its
 focus and functionality:
 
-* _(Repository list coming soon. Stay tuned for updates!)_
+- **[jme-cdct-consumer-example](https://github.com/jme-admin-ch/jme-cdct-consumer-example)**
+  jEAP microservice example demonstrating consumer-driven contract testing with Pact in a consumer.
+
+- **[jme-cdct-consumer-2-example](https://github.com/jme-admin-ch/jme-cdct-consumer-2-example)**
+  jEAP microservice example demonstrating consumer-driven contract testing with Pact in a consumer using the
+  Pact Java legacy DSL.
+
+- **[jme-cdct-provider-example](https://github.com/jme-admin-ch/jme-cdct-provider-example)**
+  jEAP microservice example demonstrating consumer-driven contract testing with Pact in a provider.
+
+- **[jme-cdct-segregated-consumer-example](https://github.com/jme-admin-ch/jme-cdct-segregated-consumer-example)**
+  jEAP microservice example demonstrating consumer-driven contract testing with Pacts in a consumer (two API of
+  same provider).
+
+- **[jme-cdct-segregated-provider-example](https://github.com/jme-admin-ch/jme-cdct-segregated-provider-example)**
+  jEAP microservice example demonstrating consumer-driven contract testing with Pact in a provider with
+  segregated APIs.
+
+- **[jme-integration-test](https://github.com/jme-admin-ch/jme-integration-test)**
+  jEAP microservice example integration test support library, providing a re-usable test harness for JME examples.
+
+- **[jme-message-type-registry](https://github.com/jme-admin-ch/jme-message-type-registry)**
+  Message type registry containing JME message types produced or consumed by JME services.
+
+- **[jme-process-context-example](https://github.com/jme-admin-ch/jme-process-context-example)**
+  Example project demonstrating how to use the jEAP Process Context Service.
 
 ## Building a jEAP Microservice Example
 
-jEAP Microservice Examples use Apache Maven for building and may include multiple microservices and additional Maven 
+jEAP Microservice Examples use Apache Maven for building and may include multiple microservices and additional Maven
 modules within a single example. To build all microservices and additional modules in an example, navigate to the
 example's root directory and run the Maven Wrapper script as shown below. This will compile all microservices and
 additional modules and install them to your local Maven repository:
@@ -56,6 +81,7 @@ cases, you can start a microservice by navigating to its directory and running t
 ```shell
 ./mvnw spring-boot:run
 ```
+
 Refer to a specific example's `README.md` for any additional configuration or setup required to run the microservices.
 
 ## Reporting Security Vulnerabilities
