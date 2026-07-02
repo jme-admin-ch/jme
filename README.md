@@ -24,6 +24,9 @@ This repository is Open Source Software licensed under the [Apache License 2.0](
 Below you will find an overview of all repositories included in the JME umbrella, each with a short description of its
 focus and functionality:
 
+- **[jme-archrepo-example](https://github.com/jme-admin-ch/jme-archrepo-example)**
+  Example project demonstrating how to set up and run the jEAP Architecture Repository service.
+
 - **[jme-cdct-consumer-example](https://github.com/jme-admin-ch/jme-cdct-consumer-example)**
   jEAP microservice example demonstrating consumer-driven contract testing with Pact in a consumer.
 
