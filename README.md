@@ -50,6 +50,9 @@ focus and functionality:
 
 - **[jme-integration-test](https://github.com/jme-admin-ch/jme-integration-test)**
   jEAP microservice example integration test support library, providing a re-usable test harness for JME examples.
+  
+- **[jme-archive-type-registry](https://github.com/jme-admin-ch/jme-archive-type-registry)**
+  Archive type registry containing JME archive types produced or consumed by JME services.
 
 - **[jme-message-type-registry](https://github.com/jme-admin-ch/jme-message-type-registry)**
   Message type registry containing JME message types produced or consumed by JME services.
