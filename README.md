@@ -45,6 +45,9 @@ focus and functionality:
   jEAP microservice example demonstrating consumer-driven contract testing with Pact in a provider with
   segregated APIs.
 
+- **[jme-deploymentlog-example](https://github.com/jme-admin-ch/jme-deploymentlog-example)**
+  Example project demonstrating how to use the jEAP DeploymentLog Service.
+
 - **[jme-integration-test](https://github.com/jme-admin-ch/jme-integration-test)**
   jEAP microservice example integration test support library, providing a re-usable test harness for JME examples.
 
