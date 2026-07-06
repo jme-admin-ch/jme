@@ -54,6 +54,10 @@ focus and functionality:
 - **[jme-archive-type-registry](https://github.com/jme-admin-ch/jme-archive-type-registry)**
   Archive type registry containing JME archive types produced or consumed by JME services.
 
+- **[jme-jwe-example](https://github.com/jme-admin-ch/jme-jwe-example)**
+  Example project demonstrating transparent JWE end-to-end encryption between an Angular frontend and a Spring Boot
+  backend using the jEAP JWE starter.
+
 - **[jme-message-type-registry](https://github.com/jme-admin-ch/jme-message-type-registry)**
   Message type registry containing JME message types produced or consumed by JME services.
 
