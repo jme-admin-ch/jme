@@ -57,6 +57,9 @@ focus and functionality:
 - **[jme-jwe-example](https://github.com/jme-admin-ch/jme-jwe-example)**
   Example project demonstrating transparent JWE end-to-end encryption between an Angular frontend and a Spring Boot
   backend using the jEAP JWE starter.
+  
+- **[jme-message-contract-service](https://github.com/jme-admin-ch/jme-message-contract-service)**
+  Example project demonstrating how to use the jEAP Message Contract Service.
 
 - **[jme-message-type-registry](https://github.com/jme-admin-ch/jme-message-type-registry)**
   Message type registry containing JME message types produced or consumed by JME services.
