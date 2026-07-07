@@ -61,6 +61,9 @@ focus and functionality:
 - **[jme-message-type-registry](https://github.com/jme-admin-ch/jme-message-type-registry)**
   Message type registry containing JME message types produced or consumed by JME services.
 
+- **[jme-message-contract-service](https://github.com/jme-admin-ch/jme-message-contract-service)**
+  Example project demonstrating how to use the JME Message Contract Service.
+
 - **[jme-process-context-example](https://github.com/jme-admin-ch/jme-process-context-example)**
   Example project demonstrating how to use the jEAP Process Context Service.
 
