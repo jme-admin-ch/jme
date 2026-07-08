@@ -45,6 +45,9 @@ focus and functionality:
   jEAP microservice example demonstrating consumer-driven contract testing with Pact in a provider with
   segregated APIs.
 
+- **[jme-crypto-example](https://github.com/jme-admin-ch/jme-crypto-example)**
+  Example project demonstrating how to use the jEAP Crypto Library.
+
 - **[jme-deploymentlog-example](https://github.com/jme-admin-ch/jme-deploymentlog-example)**
   Example project demonstrating how to use the jEAP DeploymentLog Service.
 
