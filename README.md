@@ -70,6 +70,9 @@ focus and functionality:
 - **[jme-message-type-registry](https://github.com/jme-admin-ch/jme-message-type-registry)**
   Message type registry containing JME message types produced or consumed by JME services.
 
+- **[jme-messaging-example](https://github.com/jme-admin-ch/jme-messaging-example)**
+  Example project demonstrating how to use the jEAP Messaging Library with Kafka.
+
 - **[jme-monitor-example](https://github.com/jme-admin-ch/jme-monitor-example)**
   Example project demonstrating logging, distributed tracing and Prometheus metrics for jEAP microservices.
 
