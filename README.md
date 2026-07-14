@@ -64,6 +64,9 @@ focus and functionality:
 - **[jme-message-contract-service](https://github.com/jme-admin-ch/jme-message-contract-service)**
   Example project demonstrating how to use the jEAP Message Contract Service.
 
+- **[jme-message-exchange-example](https://github.com/jme-admin-ch/jme-message-exchange-example)**
+  Example project demonstrating how to use the jEAP Message Exchange Service.
+
 - **[jme-message-type-registry](https://github.com/jme-admin-ch/jme-message-type-registry)**
   Message type registry containing JME message types produced or consumed by JME services.
 
