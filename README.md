@@ -79,6 +79,9 @@ focus and functionality:
 - **[jme-process-context-example](https://github.com/jme-admin-ch/jme-process-context-example)**
   Example project demonstrating how to use the jEAP Process Context Service.
 
+- **[jme-reaction-observer-service-example](https://github.com/jme-admin-ch/jme-reaction-observer-service-example)**
+  Example project demonstrating how to use the jEAP Reaction Observer Service.
+
 ## Building a jEAP Microservice Example
 
 jEAP Microservice Examples use Apache Maven for building and may include multiple microservices and additional Maven
