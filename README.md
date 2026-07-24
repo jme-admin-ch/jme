@@ -79,6 +79,9 @@ focus and functionality:
 - **[jme-object-storage-example](https://github.com/jme-admin-ch/jme-object-storage-example)**
   Example project demonstrating how to use the jEAP Object Storage Library.
 
+- **[jme-process-archive-example](https://github.com/jme-admin-ch/jme-process-archive-example)**
+  Example project demonstrating how to use the jEAP Process Archive Service.
+
 - **[jme-process-context-example](https://github.com/jme-admin-ch/jme-process-context-example)**
   Example project demonstrating how to use the jEAP Process Context Service.
 
