@@ -88,6 +88,9 @@ focus and functionality:
 - **[jme-reaction-observer-service-example](https://github.com/jme-admin-ch/jme-reaction-observer-service-example)**
   Example project demonstrating how to use the jEAP Reaction Observer Service.
 
+- **[jme-security-example](https://github.com/jme-admin-ch/jme-security-example)**
+  Example project demonstrating OAuth 2.0 and OpenID Connect authentication and authorization in jEAP microservices.
+
 ## Building a jEAP Microservice Example
 
 jEAP Microservice Examples use Apache Maven for building and may include multiple microservices and additional Maven
