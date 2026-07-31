@@ -91,6 +91,9 @@ focus and functionality:
 - **[jme-security-example](https://github.com/jme-admin-ch/jme-security-example)**
   Example project demonstrating OAuth 2.0 and OpenID Connect authentication and authorization in jEAP microservices.
 
+- **[jme-security-oauth2-example](https://github.com/jme-admin-ch/jme-security-oauth2-example)**
+  Example project demonstrating plain OAuth 2.0 protected resources and clients using the jEAP security starter.
+
 ## Building a jEAP Microservice Example
 
 jEAP Microservice Examples use Apache Maven for building and may include multiple microservices and additional Maven
