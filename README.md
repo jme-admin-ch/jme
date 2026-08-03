@@ -94,6 +94,9 @@ focus and functionality:
 - **[jme-security-oauth2-example](https://github.com/jme-admin-ch/jme-security-oauth2-example)**
   Example project demonstrating plain OAuth 2.0 protected resources and clients using the jEAP security starter.
 
+- **[jme-server-sent-events-example](https://github.com/jme-admin-ch/jme-server-sent-events-example)**
+  Example project demonstrating anonymous and authenticated server-sent events in jEAP microservices.
+
 ## Building a jEAP Microservice Example
 
 jEAP Microservice Examples use Apache Maven for building and may include multiple microservices and additional Maven
