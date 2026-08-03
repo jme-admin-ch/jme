@@ -97,6 +97,9 @@ focus and functionality:
 - **[jme-server-sent-events-example](https://github.com/jme-admin-ch/jme-server-sent-events-example)**
   Example project demonstrating anonymous and authenticated server-sent events in jEAP microservices.
 
+- **[jme-swagger-example](https://github.com/jme-admin-ch/jme-swagger-example)**
+  Example project demonstrating how to document the REST APIs of a jEAP microservice with the jEAP Swagger starter.
+
 ## Building a jEAP Microservice Example
 
 jEAP Microservice Examples use Apache Maven for building and may include multiple microservices and additional Maven
