@@ -79,6 +79,9 @@ focus and functionality:
 - **[jme-object-storage-example](https://github.com/jme-admin-ch/jme-object-storage-example)**
   Example project demonstrating how to use the jEAP Object Storage Library.
 
+- **[jme-opensearch-example](https://github.com/jme-admin-ch/jme-opensearch-example)**
+  Example project demonstrating event-driven indexing and authorization-aware OpenSearch queries with jEAP.
+
 - **[jme-process-archive-example](https://github.com/jme-admin-ch/jme-process-archive-example)**
   Example project demonstrating how to use the jEAP Process Archive Service.
 
