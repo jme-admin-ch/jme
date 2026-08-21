@@ -51,6 +51,10 @@ focus and functionality:
 - **[jme-deploymentlog-example](https://github.com/jme-admin-ch/jme-deploymentlog-example)**
   Example project demonstrating how to use the jEAP DeploymentLog Service.
 
+- **[jme-doc-service-example](https://github.com/jme-admin-ch/jme-doc-service-example)**
+  Example project demonstrating how to set up and run an instance of the jEAP Doc Service, including the OAuth
+  mock server, the object storage and the database it needs, and an integration test uploading documentation.
+
 - **[jme-integration-test](https://github.com/jme-admin-ch/jme-integration-test)**
   jEAP microservice example integration test support library, providing a re-usable test harness for JME examples.
   
