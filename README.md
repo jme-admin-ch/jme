@@ -107,6 +107,10 @@ focus and functionality:
 - **[jme-server-sent-events-example](https://github.com/jme-admin-ch/jme-server-sent-events-example)**
   Example project demonstrating anonymous and authenticated server-sent events in jEAP microservices.
 
+- **[jme-spring-modulith-example](https://github.com/jme-admin-ch/jme-spring-modulith-example)**
+  Example project demonstrating asynchronous Spring Modulith publication error handling with the jEAP Error Handling
+  Service.
+
 - **[jme-swagger-example](https://github.com/jme-admin-ch/jme-swagger-example)**
   Example project demonstrating how to document the REST APIs of a jEAP microservice with the jEAP Swagger starter.
 
