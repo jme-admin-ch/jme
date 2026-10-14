@@ -1,0 +1,52 @@
+# Grouping of the jEAP Examples overview on the jEAP documentation site.
+#
+# Two kinds of lines:
+#   <id> | <Label>     declares a group; groups are shown in the order declared
+#   <repo> = <id>      places an example repository in a declared group
+#
+# Repositories not listed here (or listed with an undeclared id) are shown under
+# "Other", so a new example never disappears from the overview.
+
+messaging       | Messaging
+security        | Security
+cdct            | Contract Testing (CDCT)
+storage-search  | Storage and Search
+process         | Process and Archive
+platform        | Platform Services
+misc            | Miscellaneous
+
+jme-messaging-example                  = messaging
+jme-message-exchange-example           = messaging
+jme-message-type-registry              = messaging
+jme-message-contract-service           = messaging
+jme-reaction-observer-service-example  = messaging
+
+jme-security-example                   = security
+jme-security-oauth2-example            = security
+jme-jwe-example                        = security
+jme-crypto-example                     = security
+
+jme-cdct-consumer-example              = cdct
+jme-cdct-consumer-2-example            = cdct
+jme-cdct-provider-example              = cdct
+jme-cdct-segregated-consumer-example   = cdct
+jme-cdct-segregated-provider-example   = cdct
+
+jme-object-storage-example             = storage-search
+jme-opensearch-example                 = storage-search
+jme-index-type-registry                = storage-search
+
+jme-process-context-example            = process
+jme-process-archive-example            = process
+jme-archive-type-registry              = process
+
+jme-archrepo-example                   = platform
+jme-deploymentlog-example              = platform
+jme-doc-service-example                = platform
+jme-monitor-example                    = platform
+
+jme-swagger-example                    = misc
+jme-spring-modulith-example            = misc
+jme-server-sent-events-example         = misc
+jme-bptest-example                     = misc
+jme-integration-test                   = misc
