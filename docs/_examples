@@ -19,7 +19,6 @@ jme-messaging-example                  = messaging
 jme-message-exchange-example           = messaging
 jme-message-type-registry              = messaging
 jme-message-contract-service           = messaging
-jme-reaction-observer-service-example  = messaging
 
 jme-security-example                   = security
 jme-security-oauth2-example            = security
@@ -43,10 +42,11 @@ jme-archive-type-registry              = process
 jme-archrepo-example                   = platform
 jme-deploymentlog-example              = platform
 jme-doc-service-example                = platform
-jme-monitor-example                    = platform
+jme-reaction-observer-service-example  = platform
 
 jme-swagger-example                    = misc
 jme-spring-modulith-example            = misc
 jme-server-sent-events-example         = misc
 jme-bptest-example                     = misc
 jme-integration-test                   = misc
+jme-monitor-example                    = misc
